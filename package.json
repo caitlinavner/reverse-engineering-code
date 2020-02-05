@@ -1,0 +1,20 @@
+{
+  "name": "reverse-engineering-code",
+  "version": "1.0.0",
+  "description": "sequelize homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caitlinavner/reverse-engineering-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caitlinavner/reverse-engineering-code/issues"
+  },
+  "homepage": "https://github.com/caitlinavner/reverse-engineering-code#readme"
+}
